@@ -4404,7 +4404,7 @@
     "client_name": "LAURANGELA REBECA OVIEDO BASTIDAS",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
-    "cycle": 15,
+    "cycle": 10,
     "migrate": true,
     "sector_name": "Lascenio Guerrero",
     "plan": {
@@ -60605,11 +60605,11 @@
     "migrate": true,
     "sector_name": "Guanarito",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128578209",
     "address": "CALLE  LA ESTRELLA  CASA NRO 1-1 BARRIO GUANARITO TURMERO",
@@ -114630,7 +114630,7 @@
     "id": 7363,
     "client_name": "Freddy Carrillo",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 10,
     "migrate": false,
     "sector_name": "Calle Peñalver",
@@ -154801,7 +154801,7 @@
     "client_name": "EDNYN MILEYDIS LUGO DE CELIS",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Por instalar",
-    "cycle": 15,
+    "cycle": 10,
     "migrate": true,
     "sector_name": "Valle Fresco",
     "plan": {
