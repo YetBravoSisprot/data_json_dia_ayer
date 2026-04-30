@@ -28254,7 +28254,7 @@
     "id": 4116,
     "client_name": "CESAR AUGUSTO SOLORZANO BARRETO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": true,
     "sector_name": "Villas El Carmen",
@@ -30540,13 +30540,13 @@
     "nap_box_name": "102",
     "created_at": "2024-05-08T10:36:20.843269",
     "service_detail": {
-      "id": 3682,
+      "id": 12428,
       "ip": "172.21.147.2",
-      "mac": "TPLGB68B5A9B",
-      "serial": "TPLGB68B5A9B",
-      "queue": "Plan_92037_15811_WispHub",
+      "mac": "ZXICCD841606",
+      "serial": "ZXICCD841606",
+      "queue": null,
       "interface": "VLAN224_SAN_PABLO_OLT1",
-      "created_at": "2024-07-11T20:14:27.063437",
+      "created_at": "2026-04-29T10:05:56.270306",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -73188,7 +73188,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04241676208",
+    "client_mobile": "04243455955",
     "address": "CALLE 7B CASA NRO 49 URB PANTIN ROSARIO DE PAYA",
     "client_identification": "V10750342",
     "nap_box_name": "CTO-00140",
@@ -77268,7 +77268,7 @@
     "id": 5952,
     "client_name": "LEIRYS DEISYUSELIN SALAZAR SALAZAR",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 25,
     "migrate": true,
     "sector_name": "Durpa",
@@ -77284,7 +77284,16 @@
     "client_identification": "V15490931",
     "nap_box_name": "348",
     "created_at": "2024-08-01T14:51:01.418594",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12433,
+      "ip": "172.17.206.2",
+      "mac": "VSOL00522EC9",
+      "serial": "VSOL00522EC9",
+      "queue": null,
+      "interface": "VLAN240_DURPA",
+      "created_at": "2026-04-30T09:24:13.699897",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -111047,7 +111056,7 @@
     "id": 7228,
     "client_name": "ROSA MARIA FIGUEREDO ARTEAGA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": true,
     "sector_name": "Pantin",
@@ -114630,7 +114639,7 @@
     "id": 7363,
     "client_name": "Freddy Carrillo",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": false,
     "sector_name": "Calle Peñalver",
@@ -122157,7 +122166,7 @@
   },
   {
     "id": 7725,
-    "client_name": "GREGORY KATIUSKA GONZALEZ RAMIREZ",
+    "client_name": "MIGDALIA JOSEFINA PERDOMO",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
     "cycle": 10,
@@ -122170,9 +122179,9 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04243085087",
+    "client_mobile": "04243409695",
     "address": "LA MARCELOTA CALLE LA LAGUNITA CASA NRO 07",
-    "client_identification": "V16268260",
+    "client_identification": "V9669819",
     "nap_box_name": "CTO - 1061",
     "created_at": "2025-03-18T10:02:38.550293",
     "service_detail": {
@@ -136699,7 +136708,7 @@
     "id": 8286,
     "client_name": "EDIARLY ELENA ALAYON SALMERON",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": false,
     "sector_name": "Ezequiel Zamora",
@@ -136715,7 +136724,16 @@
     "client_identification": "V30972696",
     "nap_box_name": "CTO-00387",
     "created_at": "2025-05-30T16:40:27.263295",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12429,
+      "ip": "10.14.181.2",
+      "mac": "QXTLCB1437CD",
+      "serial": "QXTLCB1437CD",
+      "queue": null,
+      "interface": "VLAN209_ZAMORA_OLT1",
+      "created_at": "2026-04-29T14:40:38.792230",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -142756,7 +142774,7 @@
     "id": 8591,
     "client_name": "GLENDYS TERESA VIELMA LICON",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": false,
     "sector_name": "La Floresta",
@@ -142772,7 +142790,16 @@
     "client_identification": "V23785973",
     "nap_box_name": "32 DOS",
     "created_at": "2025-07-10T08:56:31.594503",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12432,
+      "ip": "10.15.83.2",
+      "mac": "QXTLCB41E81A",
+      "serial": "QXTLCB41E81A",
+      "queue": null,
+      "interface": "VLAN212_FLORESTA_OLT1",
+      "created_at": "2026-04-30T08:53:27.799887",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -153808,11 +153835,11 @@
     "migrate": false,
     "sector_name": "Saman Tarazonero II",
     "plan": {
-      "id": 100,
-      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
-      "cost": "27.60",
-      "code": "FOR300M",
-      "profile": "300Mbps/300Mbps"
+      "id": 97,
+      "name": "RECURRENTE RESIDENCIAL PLAN 10M",
+      "cost": "18.00",
+      "code": "[FOR10]",
+      "profile": "10Mbps/10Mbps"
     },
     "client_mobile": "04241436934",
     "address": "CALLE 5 NÚMERO 8 SAMAN TARAZONERO 2",
@@ -153826,7 +153853,7 @@
     "id": 9035,
     "client_name": "YELITZA DEL CARMEN HERNANDEZ LEAL",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": false,
     "sector_name": "Guerrero de Chavez",
@@ -154350,7 +154377,7 @@
   },
   {
     "id": 9052,
-    "client_name": "3LITE IMPORTS",
+    "client_name": "3LITE IMPORTS TURMERO",
     "client_type_name": "PYME",
     "status_name": "Activo",
     "cycle": 25,
@@ -154736,7 +154763,7 @@
     "id": 9064,
     "client_name": "KEYMAR STEFANY LOPEZ CALDERON",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 25,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -154768,7 +154795,7 @@
     "id": 9065,
     "client_name": "LA CASA DE LOS ABUELOS",
     "client_type_name": "INTERCAMBIO",
-    "status_name": "Por instalar",
+    "status_name": "Activo",
     "cycle": 25,
     "migrate": false,
     "sector_name": "Saman de Guere",
@@ -154821,7 +154848,7 @@
   },
   {
     "id": 9067,
-    "client_name": "AGENCIA TURMERO",
+    "client_name": "OFICINA SISPROT TURMERO",
     "client_type_name": "GRATIS",
     "status_name": "Activo",
     "cycle": 25,
@@ -154847,6 +154874,102 @@
       "queue": null,
       "interface": "VLAN200_OLTs",
       "created_at": "2026-04-28T12:28:49.648048",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9069,
+    "client_name": "OFICINA SISPROT TURMERO",
+    "client_type_name": "GRATIS",
+    "status_name": "Activo",
+    "cycle": 25,
+    "migrate": false,
+    "sector_name": "Casco de Turmero",
+    "plan": {
+      "id": 86,
+      "name": "PLAN RECURRENTE 80M GRATIS",
+      "cost": "0.00",
+      "code": "FO-G80",
+      "profile": "80M/80M"
+    },
+    "client_mobile": "04140390506",
+    "address": "CALLE MARINO C.C PASEO MARINO NIVEL PB-09 LOCAL PB-09 CENTRO TURMERO, Turmero 2115",
+    "client_identification": "V0000001",
+    "nap_box_name": "38",
+    "created_at": "2026-04-29T15:40:06.341903",
+    "service_detail": {
+      "id": 12436,
+      "ip": "10.10.155.2",
+      "mac": "QXTLC8EB156C",
+      "serial": "QXTLC8EB156C",
+      "queue": null,
+      "interface": "VLAN200_OLTs",
+      "created_at": "2026-04-30T10:11:40.324664",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9070,
+    "client_name": "OFICINA SISPROT TURMERO",
+    "client_type_name": "GRATIS",
+    "status_name": "Activo",
+    "cycle": 25,
+    "migrate": false,
+    "sector_name": "Casco de Turmero",
+    "plan": {
+      "id": 86,
+      "name": "PLAN RECURRENTE 80M GRATIS",
+      "cost": "0.00",
+      "code": "FO-G80",
+      "profile": "80M/80M"
+    },
+    "client_mobile": "04140390506",
+    "address": "CALLE MARINO C.C PASEO MARINO NIVEL PB-09 LOCAL PB-09 CENTRO TURMERO, Turmero 2115",
+    "client_identification": "V0000001",
+    "nap_box_name": "256",
+    "created_at": "2026-04-29T15:40:07.458392",
+    "service_detail": {
+      "id": 12435,
+      "ip": "10.10.154.2",
+      "mac": "OEMT3C624776",
+      "serial": "OEMT3C624776",
+      "queue": null,
+      "interface": "VLAN216_LAGUNA_PLAZA_OLT1",
+      "created_at": "2026-04-30T10:10:30.856825",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9071,
+    "client_name": "3LITE IMPORTS TURMERO",
+    "client_type_name": "GRATIS",
+    "status_name": "Activo",
+    "cycle": 25,
+    "migrate": false,
+    "sector_name": "San Pablo",
+    "plan": {
+      "id": 86,
+      "name": "PLAN RECURRENTE 80M GRATIS",
+      "cost": "0.00",
+      "code": "FO-G80",
+      "profile": "80M/80M"
+    },
+    "client_mobile": "04128904122",
+    "address": "TURMERO, URB. SAN PABLO, CALLE SAN PABLO, CENTRO COMERCIAL MILAN PLAZA",
+    "client_identification": "J500339232",
+    "nap_box_name": "CTO-00588",
+    "created_at": "2026-04-30T09:33:30.435008",
+    "service_detail": {
+      "id": 12434,
+      "ip": "10.12.6.2",
+      "mac": "OEMT3C625572",
+      "serial": "OEMT3C625572",
+      "queue": null,
+      "interface": "VLAN224_SAN_PABLO_OLT1",
+      "created_at": "2026-04-30T09:33:30.583981",
       "created_by_name": null
     },
     "installation_invoice_cost": null
