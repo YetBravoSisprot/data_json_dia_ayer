@@ -87321,7 +87321,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04166463564",
+    "client_mobile": "04265332617",
     "address": "CALLE NEGRO PRIMERO EDIF 18 APTO 3 URB LAGUNA PLAZA TURMERO",
     "client_identification": "V12624672",
     "nap_box_name": "2",
@@ -95116,7 +95116,7 @@
     "id": 6609,
     "client_name": "CRISTIAN DAVID RAMOS PEREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": true,
     "sector_name": "1ro de Mayo Norte",
@@ -100384,32 +100384,23 @@
     "id": 6805,
     "client_name": "CARMEN VIOLETA OROPEZA TONA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": false,
     "sector_name": "Prados III",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243120052",
     "address": "URB.PRADO III CALLE 2 NRO 28",
     "client_identification": "V7367450",
     "nap_box_name": "CTO-00284 DOS",
     "created_at": "2024-10-22T13:49:48.587996",
-    "service_detail": {
-      "id": 11068,
-      "ip": "172.29.39.2",
-      "mac": "OEMT3C624BF2",
-      "serial": "OEMT3C624BF2",
-      "queue": null,
-      "interface": "VLAN236_PRADOS3",
-      "created_at": "2026-01-09T14:21:51.240779",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -102260,7 +102251,7 @@
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
     "cycle": 25,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "Pantin",
     "plan": {
       "id": 100,
@@ -102522,13 +102513,13 @@
     "nap_box_name": "406",
     "created_at": "2024-10-30T09:02:14.225120",
     "service_detail": {
-      "id": 12540,
+      "id": 12542,
       "ip": "172.22.118.2",
-      "mac": "4c:ab:fc:67:97:20",
-      "serial": "JMKGCE8746E7",
+      "mac": "4C:AB:FC:E9:9D:F7",
+      "serial": "JMKGC2248334",
       "queue": null,
       "interface": "VLAN231_PAYABAJO",
-      "created_at": "2026-05-22T18:56:59.897573",
+      "created_at": "2026-05-25T10:09:17.024560",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -105540,11 +105531,11 @@
     "migrate": true,
     "sector_name": "Prados de Cafetal",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243769743",
     "address": "PRADOS DEL CAFETAL CALLE 1 AL FINAL DE LA CALLE",
@@ -107074,11 +107065,11 @@
     "migrate": true,
     "sector_name": "Polvorin",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04123983126",
     "address": "CALLE 3 DE MAYO CASA NRO 11 BARRIO POLVORIN LA BODEGUITA LA BODEGUITA ARAGUA ZONA POSTAL 2115",
@@ -110495,7 +110486,7 @@
     "id": 7222,
     "client_name": "BEATRIZ ROSALBA FLORES BELLO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": true,
     "sector_name": "Rio Seco",
@@ -150810,7 +150801,7 @@
     "id": 8923,
     "client_name": "DILFA MARINA CHACON MORENO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 10,
     "migrate": false,
     "sector_name": "Urb. Vista Hermosa La Julia",
