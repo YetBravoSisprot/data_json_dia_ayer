@@ -548,7 +548,7 @@
     "id": 3088,
     "client_name": "ANDREYS ARIANNA ZAMBRANO MANRIQUE",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Villas El Carmen",
@@ -564,7 +564,16 @@
     "client_identification": "V28456607",
     "nap_box_name": "49",
     "created_at": "2024-04-10T13:58:41.401462",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12754,
+      "ip": "172.24.140.2",
+      "mac": "TP:LG:B4:46:F5:3B",
+      "serial": "TPLGB446F53B",
+      "queue": null,
+      "interface": "VLAN135_VILLAS_CARMEN_OLT_ZTE",
+      "created_at": "2026-07-19T11:04:44.575163",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -130169,7 +130178,7 @@
     "id": 8074,
     "client_name": "YHOSSELLYN VANESA PEREZ JIMENEZ",
     "client_type_name": "EMPLEADO",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": true,
     "sector_name": "Simon Bolivar",
@@ -130185,16 +130194,7 @@
     "client_identification": "V25066218",
     "nap_box_name": "CTO-00036",
     "created_at": "2025-05-02T14:06:03.454026",
-    "service_detail": {
-      "id": 8474,
-      "ip": "10.13.238.2",
-      "mac": "OEMT3C62020E",
-      "serial": "OEMT3C62020E",
-      "queue": "queue1",
-      "interface": "VLAN128_SIMON_BOLIVAR_ZTE",
-      "created_at": "2025-05-06T09:48:32.243217",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -148647,9 +148647,9 @@
     "id": 8881,
     "client_name": "LUIS AUGUSTO FERNANDEZ RIVERA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "Terrazas de Juan Pablo",
     "plan": {
       "id": 3,
@@ -148663,7 +148663,16 @@
     "client_identification": "V14665924",
     "nap_box_name": "13",
     "created_at": "2025-11-14T10:46:36.396531",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12753,
+      "ip": "10.15.138.2",
+      "mac": "TP:LG:2A:BD:C7:CD",
+      "serial": "TPLG2ABDC7CD",
+      "queue": null,
+      "interface": "VLAN130_TERRAZAS_JP",
+      "created_at": "2026-07-19T10:57:23.689794",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -152887,7 +152896,7 @@
     "id": 9056,
     "client_name": "CAROLINA COROMOTO RATTIA DE RODRIGUEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Prados I",
@@ -154419,7 +154428,7 @@
     "id": 9107,
     "client_name": "MARIA FERNANDA PEREZ JUAREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La Casona II",
@@ -155855,7 +155864,7 @@
     "id": 9154,
     "client_name": "LUIS ALEJANDRO  HIDALGO FLORES",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Pantin",
@@ -155881,6 +155890,61 @@
       "created_at": "2026-07-17T14:29:48.190509",
       "created_by_name": null
     },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9155,
+    "client_name": "YHOSSELLYN VANESA PEREZ JIMENEZ",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": true,
+    "sector_name": "El Macaro",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04143840349",
+    "address": "URBANIZACION SIMON BOLIVAR CALLE 10 CASA NRO 03 SECTOR EL MACARO TURMERO ARAGUA ZONA POSTAL 2115",
+    "client_identification": "V25066218",
+    "nap_box_name": "CTO-00036",
+    "created_at": "2026-07-19T12:36:51.057935",
+    "service_detail": {
+      "id": 12755,
+      "ip": "10.13.238.2",
+      "mac": "OE:MT:3C:62:02:0E",
+      "serial": "OEMT3C62020E",
+      "queue": null,
+      "interface": "VLAN128_SIMON_BOLIVAR_ZTE",
+      "created_at": "2026-07-19T12:57:01.980965",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9156,
+    "client_name": "YULI YSABEL GOMES FERNANDEZ",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": true,
+    "sector_name": "Casco de Turmero",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04243328602",
+    "address": "CALLE MARIÑO EDIFICIO MARIÑO PISO 9 APARTAMENTO 91-B CONJUNTO RESIDENCIAL MARIÑO TURMERO ARAGUA ZONA POSTAL 2115",
+    "client_identification": "V15600835",
+    "nap_box_name": "CTO-0519",
+    "created_at": "2026-07-20T09:06:36.783955",
+    "service_detail": null,
     "installation_invoice_cost": null
   }
 ]
