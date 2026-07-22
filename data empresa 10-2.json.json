@@ -110671,11 +110671,11 @@
     "migrate": true,
     "sector_name": "Guayabita",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243597758",
     "address": "CTRA GUAYABITA CASA NRO 35 SECTOR LA GUAYABITA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -111882,7 +111882,7 @@
       "code": "FOR300M",
       "profile": "300Mbps/300Mbps"
     },
-    "client_mobile": "04243454724",
+    "client_mobile": "04121483297",
     "address": "CALLE 05 CASA NRO 37 SECTOR RIO SECO ROSARIO DE PAYA ARAGUA ZONA POSTAL 2115",
     "client_identification": "V25841149",
     "nap_box_name": "611",
@@ -113370,7 +113370,7 @@
     "id": 7353,
     "client_name": "JESSICA ANDREINA HENRIQUEZ MORIN",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -113386,16 +113386,7 @@
     "client_identification": "V16128568",
     "nap_box_name": "CTO-00266",
     "created_at": "2024-12-18T17:07:31.755374",
-    "service_detail": {
-      "id": 7588,
-      "ip": "10.10.119.2",
-      "mac": "HWTC48080273",
-      "serial": "HWTC48080273",
-      "queue": "Plan_147201_15811_WispHub",
-      "interface": "VLAN200_OLTs",
-      "created_at": "2024-12-20T10:35:12.944014",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -139226,7 +139217,7 @@
     "id": 8473,
     "client_name": "LUIS MAGIN ESPINOZA MARTINEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Dios Es Mi Refugio",
@@ -148673,13 +148664,13 @@
     "nap_box_name": "13",
     "created_at": "2025-11-14T10:46:36.396531",
     "service_detail": {
-      "id": 12753,
+      "id": 12760,
       "ip": "10.15.138.2",
       "mac": "TP:LG:2A:BD:C7:CD",
       "serial": "TPLG2ABDC7CD",
       "queue": null,
       "interface": "VLAN130_TERRAZAS_JP",
-      "created_at": "2026-07-19T10:57:23.689794",
+      "created_at": "2026-07-21T11:20:49.150232",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155969,7 +155960,7 @@
     "id": 9157,
     "client_name": "MARIA GISELA ARAUJO PATIÑO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Por instalar",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -155985,7 +155976,48 @@
     "client_identification": "V6024707",
     "nap_box_name": "CTO - 940",
     "created_at": "2026-07-20T14:30:02.953875",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12762,
+      "ip": "10.16.228.2",
+      "mac": "68:9F:F0:2A:C4:5F",
+      "serial": "ZXICCD447A34",
+      "queue": null,
+      "interface": "VLAN287_M_CARIBE",
+      "created_at": "2026-07-21T15:37:26.068137",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9158,
+    "client_name": "JESSICA ANDREINA HENRIQUEZ MORIN",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": false,
+    "sector_name": "El Macaro",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04125058089",
+    "address": "CALLE MARIÑO PASANDO EL PUENTE DEL MACARO FRENTE A EL ESTACIONAMIENTO DE TRANSITO CASA HOGAR EL GRAN MANDAMIENTO EL MACARO TURMERO",
+    "client_identification": "V16128568",
+    "nap_box_name": "CTO-00174",
+    "created_at": "2026-07-21T10:08:09.350142",
+    "service_detail": {
+      "id": 12761,
+      "ip": "10.10.119.2",
+      "mac": "HW:TC:48:08:02:73",
+      "serial": "HWTC48080273",
+      "queue": null,
+      "interface": "VLAN249_CBENDITA_OLT2",
+      "created_at": "2026-07-21T12:35:53.032931",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   }
 ]
