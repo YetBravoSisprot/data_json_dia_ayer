@@ -110666,7 +110666,7 @@
     "id": 7250,
     "client_name": "AMERICO KALINHOFF DIAZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Guayabita",
@@ -110682,7 +110682,16 @@
     "client_identification": "V2995723",
     "nap_box_name": "CE - 956",
     "created_at": "2024-12-04T17:10:47.465614",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12765,
+      "ip": "10.11.191.2",
+      "mac": "OE:MT:3C:62:4A:B2",
+      "serial": "OEMT3C624AB2",
+      "queue": null,
+      "interface": "VLAN282_ZONA_AGRARIA",
+      "created_at": "2026-07-22T13:28:46.172692",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -113606,7 +113615,7 @@
     "client_type_name": "PYME",
     "status_name": "Suspendido",
     "cycle": 1,
-    "migrate": true,
+    "migrate": false,
     "sector_name": "Sabana Grande",
     "plan": {
       "id": 34,
@@ -145763,7 +145772,7 @@
     "id": 8757,
     "client_name": "ROBERT PORFIRIO MATAS ACOSTA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Vallecito",
@@ -155204,13 +155213,13 @@
     "nap_box_name": "CTO-00307",
     "created_at": "2026-07-03T12:39:40.115013",
     "service_detail": {
-      "id": 12666,
+      "id": 12763,
       "ip": "10.17.43.2",
-      "mac": "68:9f:f0:0a:9f:2f",
-      "serial": "ZXICCDBE6756",
+      "mac": "68:9F:F0:2A:92:2F",
+      "serial": "ZXICCD96B664",
       "queue": null,
       "interface": "VLAN231_PAYABAJO",
-      "created_at": "2026-07-03T12:41:33.098196",
+      "created_at": "2026-07-22T11:41:56.976068",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155881,13 +155890,13 @@
     "nap_box_name": "125",
     "created_at": "2026-07-17T13:52:15.668324",
     "service_detail": {
-      "id": 12749,
-      "ip": "10.17.54.2",
+      "id": 12764,
+      "ip": "10.16.229.2",
       "mac": "ZX:IC:CD:DF:A2:74",
       "serial": "ZXICCDDFA274",
       "queue": null,
-      "interface": "VLAN229_PANTIN",
-      "created_at": "2026-07-17T14:29:48.190509",
+      "interface": "VLAN140_SMT1_ZTE",
+      "created_at": "2026-07-22T12:17:33.191731",
       "created_by_name": null
     },
     "installation_invoice_cost": null
