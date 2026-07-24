@@ -113615,7 +113615,7 @@
     "client_type_name": "PYME",
     "status_name": "Suspendido",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "Sabana Grande",
     "plan": {
       "id": 34,
@@ -146837,13 +146837,13 @@
     "nap_box_name": "55",
     "created_at": "2025-09-16T14:30:32.101849",
     "service_detail": {
-      "id": 9530,
+      "id": 12766,
       "ip": "10.16.55.2",
-      "mac": "OEMT3C622546",
-      "serial": "OEMT3C622546",
-      "queue": "queue1",
+      "mac": "ZX:IC:CD:62:C9:AB",
+      "serial": "ZXICCD62C9AB",
+      "queue": null,
       "interface": "VLAN224_SAN_PABLO_OLT1",
-      "created_at": "2025-09-16T15:07:22.023609",
+      "created_at": "2026-07-23T10:20:45.315263",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155507,7 +155507,7 @@
     "id": 9142,
     "client_name": "ADRIAN ALEJANDRO RODRIGUEZ MONTILLA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Dios Es Mi Refugio",
@@ -155890,13 +155890,13 @@
     "nap_box_name": "125",
     "created_at": "2026-07-17T13:52:15.668324",
     "service_detail": {
-      "id": 12764,
-      "ip": "10.16.229.2",
+      "id": 12768,
+      "ip": "10.17.54.2",
       "mac": "ZX:IC:CD:DF:A2:74",
       "serial": "ZXICCDDFA274",
       "queue": null,
       "interface": "VLAN140_SMT1_ZTE",
-      "created_at": "2026-07-22T12:17:33.191731",
+      "created_at": "2026-07-23T15:59:05.467136",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155969,7 +155969,7 @@
     "id": 9157,
     "client_name": "MARIA GISELA ARAUJO PATIÑO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -156027,6 +156027,52 @@
       "created_at": "2026-07-21T12:35:53.032931",
       "created_by_name": null
     },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9159,
+    "client_name": "AMANDA LISETH MILLAN VIELMA",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": true,
+    "sector_name": "Saman Tarazonero II",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04128995208",
+    "address": "SAMAN TARAZONERO 2 MANZANA C7 CASA 14 EL MACARO TURMERO ARAGUA ZONA POSTAL 2115",
+    "client_identification": "V15609730",
+    "nap_box_name": "263",
+    "created_at": "2026-07-24T09:02:56.189765",
+    "service_detail": null,
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9160,
+    "client_name": "JOSUE SAMUEL APONTE MORENO",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": true,
+    "sector_name": "Simon Bolivar",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04127656223",
+    "address": "SECTOR EL MACARO URBANIZACION SIMON BOLIVAR CALLE 4 CASA 42 TURMERO ARAGUA ZONA POSTAL 2115",
+    "client_identification": "V30499461",
+    "nap_box_name": "CTO-00047",
+    "created_at": "2026-07-24T09:06:55.770120",
+    "service_detail": null,
     "installation_invoice_cost": null
   }
 ]
