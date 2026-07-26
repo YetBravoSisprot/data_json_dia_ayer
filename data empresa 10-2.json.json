@@ -951,7 +951,7 @@
     "id": 3102,
     "client_name": "MAYARIS PAOLA DEUS RISSO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Villa Los Tamarindos",
@@ -967,7 +967,16 @@
     "client_identification": "V30211563",
     "nap_box_name": "106",
     "created_at": "2024-04-10T15:48:09.125351",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12772,
+      "ip": "172.20.175.2",
+      "mac": "TP:LG:B9:54:E8:24",
+      "serial": "TPLGB954E824",
+      "queue": null,
+      "interface": "VLAN133_VILLA_TAMARINDOS",
+      "created_at": "2026-07-25T13:12:17.563751",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -15436,13 +15445,13 @@
     "nap_box_name": "CE - 451",
     "created_at": "2024-04-16T10:30:46.685428",
     "service_detail": {
-      "id": 9551,
+      "id": 12771,
       "ip": "172.27.224.2",
-      "mac": "HWTCD155589A",
-      "serial": "HWTCD155589A",
-      "queue": "queue1",
+      "mac": "ZX:IC:CD:8C:3B:FC",
+      "serial": "ZXICCD8C3BFC",
+      "queue": null,
       "interface": "VLAN137_LA_ESPERANZA_OLT_ZTE",
-      "created_at": "2025-09-23T18:54:17.304906",
+      "created_at": "2026-07-25T10:32:05.940914",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -99771,7 +99780,7 @@
     "id": 6803,
     "client_name": "ALEJANDRA DESIREE SILVA BOLIVAR",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Mata Caballo",
@@ -145772,7 +145781,7 @@
     "id": 8757,
     "client_name": "ROBERT PORFIRIO MATAS ACOSTA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Vallecito",
