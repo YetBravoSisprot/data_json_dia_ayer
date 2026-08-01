@@ -15847,7 +15847,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04121799896",
+    "client_mobile": "04127768678",
     "address": "CALLE MANZANA 16 CASA NRO 7 SECTOR ROSARIO DE PAYA ARAGUA ZONA POSTAL 2115",
     "client_identification": "V15818054",
     "nap_box_name": "377",
@@ -29894,13 +29894,13 @@
     "nap_box_name": "83",
     "created_at": "2024-05-07T12:08:52.990557",
     "service_detail": {
-      "id": 4109,
+      "id": 12780,
       "ip": "172.19.117.2",
-      "mac": "TPLGB954FB35",
+      "mac": "c0:25:2f:36:a8:03",
       "serial": "TPLGB954FB35",
-      "queue": "Plan_92033_1574_WispHub",
+      "queue": null,
       "interface": "VLAN100_OLTs",
-      "created_at": "2024-07-26T16:12:12.068969",
+      "created_at": "2026-07-31T16:20:23.382841",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -31294,7 +31294,7 @@
     "client_name": "FRANKLIN DAVID GUERRERO RAMIREZ",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
-    "cycle": 10,
+    "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
     "plan": {
@@ -57502,13 +57502,13 @@
     "nap_box_name": "CE - 566",
     "created_at": "2024-07-15T14:48:32.749004",
     "service_detail": {
-      "id": 10076,
+      "id": 12779,
       "ip": "172.19.186.2",
-      "mac": "VSOL00521859",
-      "serial": "VSOL00521859",
+      "mac": "ZX:IC:CD:09:35:64",
+      "serial": "ZXICCD093564",
       "queue": null,
       "interface": "VLAN219_MATA_CABALLO",
-      "created_at": "2025-11-12T15:30:47.186206",
+      "created_at": "2026-07-31T13:32:59.674209",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -81861,11 +81861,11 @@
     "migrate": false,
     "sector_name": "Palmeras I",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243546629",
     "address": "CALLE 3 CASA NRO 149 URB LAS PALMERAS 1 TURMERO",
@@ -87882,7 +87882,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04243534654",
+    "client_mobile": "04122295591",
     "address": "CALLE PRINCIPAL CASA NRO 54 SECTOR PRADOS I ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
     "client_identification": "V205913072",
     "nap_box_name": "CTO-00211",
@@ -154455,7 +154455,7 @@
     "id": 9107,
     "client_name": "MARIA FERNANDA PEREZ JUAREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La Casona II",
