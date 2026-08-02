@@ -3484,11 +3484,11 @@
     "migrate": true,
     "sector_name": "Saman Tarazonero II",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04144654215",
     "address": "VEREDA 11 MANZANA D-12 CASA NRO 15 SECTOR SAMAN TARAZONERO II TURMERO ARAGUA ZONA POSTAL 2115",
@@ -6272,11 +6272,11 @@
     "migrate": true,
     "sector_name": "La Magdalena",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128834259",
     "address": "CALLE 11 CASA N#49 SECTOR LA MAGDALENA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -7262,11 +7262,11 @@
     "migrate": true,
     "sector_name": "Saman Tarazonero I",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128909917",
     "address": "CALLE 12 CASA NRO 21 SECTOR SAMAN TARAZONERO 1 TURMERO",
@@ -10784,11 +10784,11 @@
     "migrate": true,
     "sector_name": "Taguapire",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04140483626",
     "address": "CTRA NACIONAL TURMERO MARACAY EDIF MODULO 13 PISO PB APT 122 URB TAGUAPIRE SECTOR EL MACARO",
@@ -10944,11 +10944,11 @@
     "migrate": true,
     "sector_name": "Saman Tarazonero II",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04124573816",
     "address": "CALLE PRINCIPAL MANZANA D-12 CASA NRO 17 SECTOR SAMAN TARAZONERO II TURMERO ARAGUA",
@@ -12227,11 +12227,11 @@
     "migrate": true,
     "sector_name": "Paya Abajo",
     "plan": {
-      "id": 8,
-      "name": "RECURRENTE RESIDENCIAL PLAN 750M",
-      "cost": "49.50",
-      "code": "FOR750M",
-      "profile": "750M/750M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121341293",
     "address": "CALLE SAN ANTONIO CASA  NRO 1 SECTOR PAYA ABAJO ROSARIO DE PAYA",
@@ -13390,11 +13390,11 @@
     "migrate": true,
     "sector_name": "Prados de Cafetal",
     "plan": {
-      "id": 19,
-      "name": "RECURRENTE RESIDENCIAL PLAN 1GB",
-      "cost": "74.70",
-      "code": "FOR1GB",
-      "profile": "1000M/1000M"
+      "id": 8,
+      "name": "RECURRENTE RESIDENCIAL PLAN 750M",
+      "cost": "49.50",
+      "code": "FOR750M",
+      "profile": "750M/750M"
     },
     "client_mobile": "04149474118",
     "address": "CALLE TRANSCERSAL CASA NRO B-1 PRADOS DE CAFETAL TURMERO",
@@ -18227,11 +18227,11 @@
     "migrate": true,
     "sector_name": "Terrazas de Paya",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121358408",
     "address": "CALLE PRINCIPAL CASA NRO 201 SECTOR LUZ Y VIDA URB TERRAZAS DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -32644,7 +32644,7 @@
     "id": 4288,
     "client_name": "DIANA CAROLINA BARRETO DE BERNAL",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Guerito",
@@ -32660,16 +32660,7 @@
     "client_identification": "V16738870",
     "nap_box_name": "CE - 771",
     "created_at": "2024-05-17T16:04:08.544902",
-    "service_detail": {
-      "id": 11837,
-      "ip": "172.28.55.2",
-      "mac": "ZICGCE36E4D0",
-      "serial": "ZICGCE36E4D0",
-      "queue": null,
-      "interface": "VLAN139_GUERITO",
-      "created_at": "2026-02-27T12:05:56.418028",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -40129,11 +40120,11 @@
     "migrate": true,
     "sector_name": "Vista Hermosa",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04145733505",
     "address": "CALLE LAS MANDARINAS CASA NRO 85 SECTOR VISTA HERMOSA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -42350,11 +42341,11 @@
     "migrate": true,
     "sector_name": "Prados I",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128855426",
     "address": "CALLE 13 CASA NRO 10 SECTOR PRADOS I ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -42414,11 +42405,11 @@
     "migrate": true,
     "sector_name": "Paya Abajo",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 2,
+      "name": "RECURRENTE RESIDENCIAL PLAN 30M",
+      "cost": "20.00",
+      "code": "FOR30",
+      "profile": "30M/30M"
     },
     "client_mobile": "04121486776",
     "address": "CALLE CAMPO ELIAS CASA NRO 15 SECTOR PAYA ABAJO ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -42995,7 +42986,7 @@
     "id": 4676,
     "client_name": "JANNYN CLARET PEREZ MELENDRES",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Mata Caballo",
@@ -47618,7 +47609,7 @@
     "id": 4848,
     "client_name": "JORGE ANDRES ZEGHEN BARRIOS",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Residencias Candys",
@@ -47634,7 +47625,16 @@
     "client_identification": "V30005887",
     "nap_box_name": "CTO-0516",
     "created_at": "2024-06-13T08:55:13.225781",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12782,
+      "ip": "172.27.209.2",
+      "mac": "HW:TC:54:B1:2D:A3",
+      "serial": "HWTC54B12DA3",
+      "queue": null,
+      "interface": "VLAN254_CANDYS_OLT1",
+      "created_at": "2026-08-01T14:57:23.429378",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -48314,7 +48314,7 @@
     "id": 4874,
     "client_name": "DIEGO ARMANDO PARRA MENDEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Valle Paraiso",
@@ -53513,7 +53513,7 @@
     "id": 5085,
     "client_name": "MAIRA ALEJANDRA AZUAJE PEREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Betania",
@@ -53981,11 +53981,11 @@
     "migrate": true,
     "sector_name": "Rio Seco",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121598327",
     "address": "CALLE TRASOLINNI CASA NRO. 03 SECTOR CENTRO TURMERO ARAGUA.",
@@ -54178,11 +54178,11 @@
     "migrate": true,
     "sector_name": "Mata Caballo",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243210099",
     "address": "MATACABALLO, CALLE NRO. 2 CASA NRO. 99 ROSARIO DE PAYA ARAGUA",
@@ -78900,11 +78900,11 @@
     "migrate": true,
     "sector_name": "La Floresta",
     "plan": {
-      "id": 19,
-      "name": "RECURRENTE RESIDENCIAL PLAN 1GB",
-      "cost": "74.70",
-      "code": "FOR1GB",
-      "profile": "1000M/1000M"
+      "id": 16,
+      "name": "RECURRENTE RESIDENCIAL PLAN 800M",
+      "cost": "55.00",
+      "code": "FOR800",
+      "profile": "800M/800M"
     },
     "client_mobile": "04145981968",
     "address": "CALLE 2 CASA NRO F-5 URB PARQUE RESIDENCIAL LA FLORESTA TURMERO ARAGUA",
@@ -85793,11 +85793,11 @@
     "migrate": true,
     "sector_name": "Prados I",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243603074",
     "address": "CALLE 1 CASA NRO 19 SECTOR PRADO 1 TURMERO",
@@ -87876,11 +87876,11 @@
     "migrate": true,
     "sector_name": "Prados I",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04122295591",
     "address": "CALLE PRINCIPAL CASA NRO 54 SECTOR PRADOS I ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -91048,7 +91048,7 @@
     "id": 6470,
     "client_name": "JAKELINE CRISTINA ROSALES OCANDO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Arturo Luis Berti",
@@ -106292,11 +106292,11 @@
     "migrate": true,
     "sector_name": "Polvorin",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04125259470",
     "address": "CALLE EL SAMAN CASA NRO 3 ZONA AGRARIA GUAYABITA SECTOR POLVORIN TURMERO ARAGUA ZONA POSTAL 2115",
@@ -111889,7 +111889,7 @@
     "id": 7295,
     "client_name": "CARLOS ALBERTO SORIA ROCHE",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Rio Seco",
@@ -113824,7 +113824,7 @@
     "id": 7371,
     "client_name": "HECTOR ANTONIO GUZMAN ACHE",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Callejon Los Jabillos",
@@ -113835,12 +113835,21 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04143322167",
+    "client_mobile": "04243498951",
     "address": "FINAL CALLE LOS JABILLOS CASA S/N SECTOR PRADOS DEL CAFETAL TURMERO ARAGUA ZONA 2115",
     "client_identification": "V3742167",
     "nap_box_name": "138",
     "created_at": "2025-01-08T14:53:43.148306",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12781,
+      "ip": "10.10.130.2",
+      "mac": "TP:LG:F5:CB:0A:C9",
+      "serial": "TPLGF5CB0AC9",
+      "queue": null,
+      "interface": "VLAN205_JABILLOS_OLT2",
+      "created_at": "2026-08-01T13:54:26.154670",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -114072,11 +114081,11 @@
     "migrate": false,
     "sector_name": "Prados",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128494901",
     "address": "AV.PRINCIPAL CASA NRO.38 URB. PRADO DE PAYA ROSARIO DE PAYA ZONA POSTAL 2115",
@@ -122458,11 +122467,11 @@
     "migrate": true,
     "sector_name": "Mata Caballo",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243116328",
     "address": "MATA CABALLO CALLE 12 APTO. 698-D PISO 1",
@@ -123589,11 +123598,11 @@
     "migrate": true,
     "sector_name": "Valle Verde",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128651293",
     "address": "CALLE LOS MAMONES CASA NRO 7-2 SECTOR VALLE VERDE ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -127097,11 +127106,11 @@
     "migrate": true,
     "sector_name": "La Casona II",
     "plan": {
-      "id": 43,
-      "name": "RECURRENTE RESIDENCIAL PLAN 650M",
-      "cost": "46.00",
-      "code": "FOR650M",
-      "profile": "650M/650M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04144911762",
     "address": "LA CASONA 2, CALLE 12 CASA #13",
@@ -131991,7 +132000,7 @@
     "id": 8139,
     "client_name": "ZOHIRA DEL CARMEN GIL DURAND",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -134341,11 +134350,11 @@
     "migrate": false,
     "sector_name": "Valle Fresco",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04125009022",
     "address": "VALLE FRESCO AV PRINCIPAL LOS NARANJO, MANZANA C CASA 18  TURMERO ESTADO ARAGUA POSTAL 2115",
@@ -136907,7 +136916,7 @@
     "client_type_name": "RESIDENCIAL",
     "status_name": "Cancelado",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "La Casona I",
     "plan": {
       "id": 100,
@@ -142143,7 +142152,7 @@
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "1ro de Mayo Norte",
     "plan": {
       "id": 100,
