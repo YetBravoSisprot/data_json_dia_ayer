@@ -2898,7 +2898,7 @@
     "id": 3172,
     "client_name": "HENRY MORENO CLAVIJO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La Macarena",
@@ -20619,7 +20619,7 @@
     "id": 3843,
     "client_name": "ROSBERLIC COROMOTO RODRIGUEZ REVERON",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Taguapire",
@@ -25032,7 +25032,7 @@
     "id": 4003,
     "client_name": "NAIRYCH ALEJANDRA LEON HEREDIA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Pantin",
@@ -25048,7 +25048,16 @@
     "client_identification": "V25895150",
     "nap_box_name": "CTO-00127",
     "created_at": "2024-04-20T08:56:08.031470",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12840,
+      "ip": "172.20.101.2",
+      "mac": "TP:LG:B4:46:F2:A6",
+      "serial": "TPLGB446F2A6",
+      "queue": null,
+      "interface": "VLAN229_PANTIN",
+      "created_at": "2026-08-14T17:21:58.341471",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -27886,7 +27895,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04145793686",
+    "client_mobile": "04243403013",
     "address": "AV PPAL DEL MACARO EDIF CHIRIMOYA PISO 1 APTO 8 URB VILLAS EL CARMEN TURMERO ESTADO ARAGUA",
     "client_identification": "V13241710",
     "nap_box_name": "43",
@@ -32893,7 +32902,7 @@
     "id": 4301,
     "client_name": "BRYANT  REYES REYES AVILA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "El Macaro",
@@ -34512,12 +34521,21 @@
       "code": "FOP300M",
       "profile": "300M/300M"
     },
-    "client_mobile": "04165435841",
+    "client_mobile": "04243445527",
     "address": "CRTA TURMERO PAYA CALLE ANPHILOQUIO LOCAL PARCELA P-2 NRO 1 SECTOR SANTIAGO MARIÑO MARACAY ARAGUA",
     "client_identification": "J504704792",
     "nap_box_name": "98",
     "created_at": "2024-06-08T08:52:06.921954",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12841,
+      "ip": "172.27.246.2",
+      "mac": "TP:LG:F9:CD:42:0C",
+      "serial": "TPLGF9CD420C",
+      "queue": null,
+      "interface": "VLAN220_PP_PAYA_OLT2",
+      "created_at": "2026-08-14T17:40:56.379172",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -54300,7 +54318,7 @@
     "id": 5131,
     "client_name": "FRANCIA EMPERATRIZ PEREZ CHIRINOS",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "1ro de Mayo Sur",
@@ -125333,7 +125351,7 @@
     "id": 7907,
     "client_name": "YENIFFER RINCON COBA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Villas El Carmen",
@@ -131997,7 +132015,7 @@
     "id": 8162,
     "client_name": "JORGE LUIS RIVERO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Prados",
@@ -132013,16 +132031,7 @@
     "client_identification": "V11982570",
     "nap_box_name": "CTO - 1012",
     "created_at": "2025-05-14T14:10:36.359966",
-    "service_detail": {
-      "id": 8716,
-      "ip": "10.14.138.2",
-      "mac": "HWTC49200139",
-      "serial": "HWTC49200139L7PW17",
-      "queue": "queue1",
-      "interface": "VLAN236_PRADOS3",
-      "created_at": "2025-05-20T16:46:59.579520",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -138650,7 +138659,7 @@
     "id": 8473,
     "client_name": "LUIS MAGIN ESPINOZA MARTINEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Dios Es Mi Refugio",
@@ -150725,16 +150734,7 @@
     "client_identification": "V18221823",
     "nap_box_name": "32",
     "created_at": "2026-02-05T20:11:47.533263",
-    "service_detail": {
-      "id": 12776,
-      "ip": "10.16.231.2",
-      "mac": "JM:KG:C2:AD:05:52",
-      "serial": "JMKGC2AD0552",
-      "queue": null,
-      "interface": "VLAN140_SMT1_ZTE",
-      "created_at": "2026-07-28T09:31:03.883130",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -155179,7 +155179,7 @@
     "id": 9152,
     "client_name": "MARIANA JOSEFINA MARTINEZ LOZADA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -155673,7 +155673,7 @@
     "id": 9168,
     "client_name": "YUNAIKA COROMOTO PACHECO  ARTEAGA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Valle del Rosario",
@@ -155856,7 +155856,7 @@
     "id": 9174,
     "client_name": "KAIRELIS DEL CARMEN TORO PEREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Paraguatan",
@@ -155888,7 +155888,7 @@
     "id": 9175,
     "client_name": "Carmen Olida Contreras Ramirez",
     "client_type_name": "PYME",
-    "status_name": "Por instalar",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "plan": {
@@ -155903,7 +155903,16 @@
     "client_identification": "v10740876",
     "nap_box_name": null,
     "created_at": "2026-08-11T21:15:30.703083",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12838,
+      "ip": "10.14.138.2",
+      "mac": "HW:TC:49:20:01:39",
+      "serial": "HWTC49200139",
+      "queue": null,
+      "interface": "VLAN236_PRADOS3",
+      "created_at": "2026-08-14T15:17:16.957244",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -156040,7 +156049,7 @@
       "code": "FOR300M",
       "profile": "300Mbps/300Mbps"
     },
-    "client_mobile": "04224335759",
+    "client_mobile": "04224435759",
     "address": "centro de turmero calle rivas cruce con calle girardot numero 03 .",
     "client_identification": "v20057472",
     "nap_box_name": "CTO-00590",
@@ -156055,6 +156064,91 @@
       "created_at": "2026-08-13T18:30:33.856837",
       "created_by_name": null
     },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9183,
+    "client_name": "KARELYS NAZARET MENESES BETANCOURT",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": false,
+    "plan": {
+      "id": 21,
+      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
+      "cost": "34.50",
+      "code": "FOR450M",
+      "profile": "450M/450M"
+    },
+    "client_mobile": "04144497495",
+    "address": "polvorín calle 3 de mayo casa numero 29#a",
+    "client_identification": "v27520867",
+    "nap_box_name": null,
+    "created_at": "2026-08-14T13:23:06.045172",
+    "service_detail": {
+      "id": 12837,
+      "ip": "10.17.61.2",
+      "mac": "JM:KG:C9:80:CD:0F",
+      "serial": "JMKGC980CD0F",
+      "queue": null,
+      "interface": "VLAN280_POLVORIN",
+      "created_at": "2026-08-14T13:23:48.331110",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9184,
+    "client_name": "MIGUEL EDUARDO RODRIGUEZ TOVAR",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": false,
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "04129672963",
+    "address": "calle campo elias 12-2 paya abajo, rosario de paya turmero aragua zona postal 2115",
+    "client_identification": "V24930716",
+    "nap_box_name": null,
+    "created_at": "2026-08-14T16:40:30.447134",
+    "service_detail": {
+      "id": 12839,
+      "ip": "172.26.192.2",
+      "mac": "hwtc9065309b",
+      "serial": "hwtc9065309b",
+      "queue": null,
+      "interface": "vlan200_olts",
+      "created_at": "2026-08-14T16:40:30.727737",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9185,
+    "client_name": "Jenny Esther Moreno Arguizones",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": false,
+    "sector_name": "Ezequiel Zamora",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "4128154370",
+    "address": "urbanizacion ezequiel zamora edificio urquia piso 2 apto 6 turmero aragua zona postal 2115",
+    "client_identification": "v14230844",
+    "nap_box_name": "CTO-00296",
+    "created_at": "2026-08-14T16:40:32.650951",
+    "service_detail": null,
     "installation_invoice_cost": null
   }
 ]
