@@ -2898,7 +2898,7 @@
     "id": 3172,
     "client_name": "HENRY MORENO CLAVIJO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La Macarena",
@@ -27575,7 +27575,7 @@
   },
   {
     "id": 4101,
-    "client_name": "LUIS ALBERTO MORA PEREZ",
+    "client_name": "MAGGY SURAYA GHANAM CELIS",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
     "cycle": 1,
@@ -27588,7 +27588,7 @@
       "code": "FOR300M",
       "profile": "300Mbps/300Mbps"
     },
-    "client_mobile": "04243212236",
+    "client_mobile": "04125791809",
     "address": "MANZANA  C-02 CASA NRO 14 SECTOR SAMAN  TARAZONERO II",
     "client_identification": "V10735221",
     "nap_box_name": "502",
@@ -57814,7 +57814,7 @@
     "id": 5274,
     "client_name": "EMMAR NEYZMARIZ SUMOZA JUAREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Paya Abajo",
@@ -57830,7 +57830,16 @@
     "client_identification": "V21426901",
     "nap_box_name": "CTO-00319",
     "created_at": "2024-07-16T10:20:17.926086",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12844,
+      "ip": "172.26.148.2",
+      "mac": "HW:TC:90:69:33:9B",
+      "serial": "HWTC9069339B",
+      "queue": null,
+      "interface": "VLAN231_PAYABAJO",
+      "created_at": "2026-08-15T14:17:16.995875",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -69458,13 +69467,13 @@
     "nap_box_name": "390",
     "created_at": "2024-07-26T14:38:28.047093",
     "service_detail": {
-      "id": 7634,
+      "id": 12852,
       "ip": "172.17.210.2",
-      "mac": "VSOL00128941",
-      "serial": "VSOL00128941",
-      "queue": "queue1",
+      "mac": "QX:TL:CB:89:3A:57",
+      "serial": "QXTLCB893A57",
+      "queue": null,
       "interface": "VLAN267_LOS_MANGOS_ZTE",
-      "created_at": "2025-01-17T12:43:33.975571",
+      "created_at": "2026-08-15T20:10:24.143213",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -85514,7 +85523,7 @@
     "id": 6276,
     "client_name": "ROSANGEL XIMENA GARCIA VELASQUEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Jabillar",
@@ -87643,7 +87652,7 @@
     "id": 6355,
     "client_name": "ISBEYDIX NAZARETH MALDONADO GARCIA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Terrazas de Paya",
@@ -98041,7 +98050,7 @@
     "id": 6749,
     "client_name": "CARY MICHELL JIMENEZ LOPEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Pantin",
@@ -98057,7 +98066,16 @@
     "client_identification": "V22948360",
     "nap_box_name": "CTO-00076 DOS",
     "created_at": "2024-10-08T14:55:41.902982",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12850,
+      "ip": "10.10.5.2",
+      "mac": "OE:MT:3C:62:26:EE",
+      "serial": "OEMT3C6226EE",
+      "queue": null,
+      "interface": "VLAN229_PANTIN",
+      "created_at": "2026-08-15T18:22:21.289774",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -101368,23 +101386,32 @@
     "id": 6890,
     "client_name": "JUAN ERNESTO MORLA MARVAL",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "Casco de Turmero",
     "plan": {
-      "id": 97,
-      "name": "RECURRENTE RESIDENCIAL PLAN 10M",
-      "cost": "18.00",
-      "code": "[FOR10]",
-      "profile": "10Mbps/10Mbps"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04141636753",
     "address": "CALLE BOLIVAR CONJUNTO RESIDENCIAL LOS NISPERO TORRE A, PISO 9 APTO 96",
     "client_identification": "V15758946",
     "nap_box_name": "TORRE A EDIF LOS NISPEROS",
     "created_at": "2024-10-29T18:34:29.987944",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12849,
+      "ip": "10.10.15.2",
+      "mac": "HW:TC:45:A0:44:07",
+      "serial": "HWTC45A04407",
+      "queue": null,
+      "interface": "VLAN272_EDIF_NISPEROS_OLT3",
+      "created_at": "2026-08-15T18:03:01.078780",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -111865,7 +111892,7 @@
     "id": 7310,
     "client_name": "AURELIO NICANOR HAYA AJA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Polvorin",
@@ -112351,7 +112378,7 @@
     "id": 7330,
     "client_name": "JACKSON ANDRES GONZALEZ AVENDAÑO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -112367,7 +112394,16 @@
     "client_identification": "V11939694",
     "nap_box_name": "TORRE A EDIF LOS NISPEROS",
     "created_at": "2024-12-17T14:50:11.736641",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12846,
+      "ip": "10.10.65.2",
+      "mac": "OE:MT:3C:62:45:72",
+      "serial": "OEMT3C624572",
+      "queue": null,
+      "interface": "VLAN272_EDIF_NISPEROS_OLT3",
+      "created_at": "2026-08-15T15:06:14.162459",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -132894,7 +132930,7 @@
     "id": 8195,
     "client_name": "DEIVIS JOEL LEON MENDOZA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Las Rurales",
@@ -135780,7 +135816,7 @@
     "id": 8334,
     "client_name": "YESICA DEL CARMEN MORALES GIL",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Betania",
@@ -144670,9 +144706,9 @@
     "id": 8740,
     "client_name": "YUNIOR JESUS TORTOZA APONCIO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
-    "migrate": false,
+    "migrate": true,
     "sector_name": "El Cambur",
     "plan": {
       "id": 100,
@@ -144686,7 +144722,16 @@
     "client_identification": "V17247290",
     "nap_box_name": "CTO - 00521",
     "created_at": "2025-08-21T13:19:17.604617",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12845,
+      "ip": "10.16.6.2",
+      "mac": "VS:OL:00:52:2E:89",
+      "serial": "VSOL00522E89",
+      "queue": null,
+      "interface": "VLAN236_PRADOS3",
+      "created_at": "2026-08-15T14:19:03.051395",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -145657,7 +145702,7 @@
     "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
-    "sector_name": "Prados II",
+    "sector_name": "Saman Tarazonero II",
     "plan": {
       "id": 100,
       "name": "RECURRENTE RESIDENCIAL PLAN 300M",
@@ -145666,8 +145711,8 @@
       "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04122599664",
-    "address": "SECTOR PRADOS DE PAYA II, CALLE 2 CASA 8",
-    "client_identification": "V19516432",
+    "address": "Saman tarazonero ll manzana c2 casa numero 14 el macaro aragua zona postal 2115",
+    "client_identification": "V25067048",
     "nap_box_name": "CTO-00205 DOS",
     "created_at": "2025-09-08T15:52:40.982994",
     "service_detail": {
@@ -155856,7 +155901,7 @@
     "id": 9174,
     "client_name": "KAIRELIS DEL CARMEN TORO PEREZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Paraguatan",
@@ -156038,7 +156083,7 @@
     "id": 9182,
     "client_name": "YULEIDYS CAROLINA MARIN PALMA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -156101,7 +156146,7 @@
     "id": 9184,
     "client_name": "MIGUEL EDUARDO RODRIGUEZ TOVAR",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Por instalar",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "plan": {
@@ -156117,13 +156162,13 @@
     "nap_box_name": null,
     "created_at": "2026-08-14T16:40:30.447134",
     "service_detail": {
-      "id": 12839,
-      "ip": "172.26.192.2",
-      "mac": "hwtc9065309b",
-      "serial": "hwtc9065309b",
+      "id": 12847,
+      "ip": "172.17.172.2",
+      "mac": "VS:OL:00:52:14:71",
+      "serial": "VSOL00521471",
       "queue": null,
-      "interface": "vlan200_olts",
-      "created_at": "2026-08-14T16:40:30.727737",
+      "interface": "VLAN231_PAYABAJO",
+      "created_at": "2026-08-15T17:05:08.310807",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -156149,6 +156194,69 @@
     "nap_box_name": "CTO-00296",
     "created_at": "2026-08-14T16:40:32.650951",
     "service_detail": null,
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9186,
+    "client_name": "Michell Yhainilin Velasquez Mariño",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": false,
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "4243796480",
+    "address": "urbanizacion pantin calle 1 casa # 13",
+    "client_identification": "28187407",
+    "nap_box_name": null,
+    "created_at": "2026-08-15T14:09:04.376312",
+    "service_detail": {
+      "id": 12851,
+      "ip": "10.16.239.2",
+      "mac": "68:9f:f0:2a:76:6f",
+      "serial": "zxiccd350306",
+      "queue": null,
+      "interface": "VLAN229_PANTIN",
+      "created_at": "2026-08-15T18:31:01.375519",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9187,
+    "client_name": "Carolina Lisbeth Rattia Perez",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": false,
+    "sector_name": "Pantin",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "4127764522",
+    "address": "urbanizacion pantin calle 17-b casa #36",
+    "client_identification": "20334399",
+    "nap_box_name": "CTO-00048",
+    "created_at": "2026-08-15T14:09:05.876790",
+    "service_detail": {
+      "id": 12853,
+      "ip": "10.16.240.2",
+      "mac": "JM:KG:C2:F7:EF:CE",
+      "serial": "JMKGC2F7EFCE",
+      "queue": null,
+      "interface": "VLAN229_PANTIN",
+      "created_at": "2026-08-15T20:24:55.083690",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   }
 ]
