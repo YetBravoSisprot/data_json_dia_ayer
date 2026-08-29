@@ -3632,7 +3632,7 @@
       "code": "FOR450M",
       "profile": "450M/450M"
     },
-    "client_mobile": "04124629523",
+    "client_mobile": "04162413601",
     "address": "AV INTERCOMUNAL TURMERO LA CASONA 1 CALLE 7 CASA NRO21 ZONA POSTAL 2115",
     "client_identification": "V272868952",
     "nap_box_name": "410",
@@ -125185,7 +125185,7 @@
     "id": 7899,
     "client_name": "MARIA ELENA GUTIERREZ GRIBORIO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La Concepcion",
@@ -125201,16 +125201,7 @@
     "client_identification": "V11290546",
     "nap_box_name": "CTO-00262",
     "created_at": "2025-04-09T14:18:36.804122",
-    "service_detail": {
-      "id": 8194,
-      "ip": "10.13.61.2",
-      "mac": "OEMT3C620256",
-      "serial": "OEMT3C620256",
-      "queue": "Plan_148293_24341_WispHub",
-      "interface": "VLAN143_STAEDUVIGES2",
-      "created_at": "2025-04-09T16:28:48.599886",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -156783,7 +156774,7 @@
     "id": 9211,
     "client_name": "CRISTOFER RUSSELL MORILLO ROMERO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Polvorin",
@@ -156815,7 +156806,7 @@
     "id": 9212,
     "client_name": "NAIROBI WILERMA DE LOURDES MACHADO REYES",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -156847,7 +156838,7 @@
     "id": 9213,
     "client_name": "CLARIBEL LUGO YNOJOSA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "El Nispero",
@@ -156895,7 +156886,16 @@
     "client_identification": "J312213310",
     "nap_box_name": "1",
     "created_at": "2026-08-27T12:42:53.012869",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12922,
+      "ip": "172.17.1.213",
+      "mac": "4C:AB:FC:11:EB:AB",
+      "serial": "JMKGC676F68C",
+      "queue": null,
+      "interface": "VLAN282_ZONA_AGRARIA",
+      "created_at": "2026-08-28T13:31:37.535510",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
