@@ -12720,11 +12720,11 @@
     "migrate": true,
     "sector_name": "Santa Eduviges",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04124581419",
     "address": "CALLE HENRY PITTIER VEREDA 9 CASA NRO 1 SECTOR SANTA EDUVIGES EL MACARO",
@@ -14057,11 +14057,11 @@
     "migrate": true,
     "sector_name": "Pantin",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04125972977",
     "address": "CALLE 2B CASA NRO 52 ROSARIO DE PAYA PANTIN TURMERO ARAGUA ZONA POSTAL 2115",
@@ -15372,11 +15372,11 @@
     "migrate": true,
     "sector_name": "Saman Tarazonero I",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04127761042",
     "address": "SECTOR SAMAN TARAZONERO I CALLE 11 CASA NRO25 TURMERO VIA EL MACARO TURMERO",
@@ -18437,11 +18437,11 @@
     "migrate": true,
     "sector_name": "Valle del Rosario",
     "plan": {
-      "id": 8,
-      "name": "RECURRENTE RESIDENCIAL PLAN 750M",
-      "cost": "49.50",
-      "code": "FOR750M",
-      "profile": "750M/750M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128868417",
     "address": "CALLE JOSE CASANOVA GODOY CASA NRO 4 SECTOR VALLE DEL ROSARIO MACARO TURMERO",
@@ -19596,11 +19596,11 @@
     "migrate": true,
     "sector_name": "Taguapire",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121493605",
     "address": "AV TURMERO EL MACARO EDIF MODULO 01 PISO 1 APTO 07 URB TAGUAPIRE TURMERO ARAGUA ZONA POSTAL 2115",
@@ -20127,7 +20127,7 @@
     "id": 3830,
     "client_name": "GENESIS COROMOTO MUNOZ LARA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Villas El Carmen",
@@ -21349,11 +21349,11 @@
     "migrate": true,
     "sector_name": "Villas El Carmen",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121486296",
     "address": "CALLE 4 CASA NRO 18 URB EL MACARO VILLAS EL CARMEN TURMERO ARAGUA",
@@ -29410,7 +29410,7 @@
     "id": 4174,
     "client_name": "INDUSTRIA PROCESADORA CA",
     "client_type_name": "PYME",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 10,
     "migrate": true,
     "sector_name": "San Pablo",
@@ -29426,16 +29426,7 @@
     "client_identification": "J303931766",
     "nap_box_name": "56",
     "created_at": "2024-05-07T10:51:37.473504",
-    "service_detail": {
-      "id": 3446,
-      "ip": "172.18.204.2",
-      "mac": "TPLGB95502CA",
-      "serial": "TPLGB95502CA",
-      "queue": "Plan_92038_15811_WispHub",
-      "interface": "VLAN224_SAN_PABLO_OLT1",
-      "created_at": "2024-07-04T15:07:16.523995",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -29616,7 +29607,7 @@
     "id": 4182,
     "client_name": "MOTORES SAN MARCOS XXI C.A",
     "client_type_name": "PYME",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 10,
     "migrate": true,
     "sector_name": "El Macaro",
@@ -29632,16 +29623,7 @@
     "client_identification": "J502103449",
     "nap_box_name": "83",
     "created_at": "2024-05-07T12:08:52.990557",
-    "service_detail": {
-      "id": 12780,
-      "ip": "172.19.117.2",
-      "mac": "c0:25:2f:36:a8:03",
-      "serial": "TPLGB954FB35",
-      "queue": null,
-      "interface": "VLAN100_OLTs",
-      "created_at": "2026-07-31T16:20:23.382841",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -32512,11 +32494,11 @@
     "migrate": true,
     "sector_name": "Mata Caballo",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121486711",
     "address": "CALLE 02 CASA NRO 42 SECTOR MATA CABALLO ROSARIO DE PAYA TURMERO ARAGUA ZONA POSTAL 2115",
@@ -40001,7 +39983,7 @@
     },
     "client_mobile": "04129686406",
     "address": "CALLE 3 CASA NRO 416 SECTOR ARTURO LUIS BERTI SAMAN DE GUERE",
-    "client_identification": "V22285935",
+    "client_identification": "V18083778",
     "nap_box_name": "65",
     "created_at": "2024-06-09T12:50:42.779798",
     "service_detail": {
@@ -41784,11 +41766,11 @@
     "migrate": true,
     "sector_name": "Pantin",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121588638",
     "address": "CALLE 12-B CASA NRO 37 URB PANTIN ROSARIO DE PAYA",
@@ -49185,16 +49167,7 @@
     "client_identification": "V12339072",
     "nap_box_name": "CTO-0642",
     "created_at": "2024-06-14T10:05:42.012056",
-    "service_detail": {
-      "id": 12815,
-      "ip": "172.25.160.2",
-      "mac": "QX:TL:CB:66:A9:EC",
-      "serial": "QXTLCB66A9EC",
-      "queue": null,
-      "interface": "VLAN227_V_PARAISO_OLT1",
-      "created_at": "2026-08-10T13:39:35.315623",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -69063,11 +69036,11 @@
     "migrate": true,
     "sector_name": "Antonio Jose de Sucre",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04121589459",
     "address": "CALLE 25 DE AGOSTO CASA NRO 53 SECTOR ANTONIO JOSE DE SUCRE TURMERO",
@@ -73345,11 +73318,11 @@
     "migrate": true,
     "sector_name": "Antonio Jose de Sucre",
     "plan": {
-      "id": 8,
-      "name": "RECURRENTE RESIDENCIAL PLAN 750M",
-      "cost": "49.50",
-      "code": "FOR750M",
-      "profile": "750M/750M"
+      "id": 21,
+      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
+      "cost": "34.50",
+      "code": "FOR450M",
+      "profile": "450M/450M"
     },
     "client_mobile": "04123868633",
     "address": "CALLE 25 DE AGOSTO CASA NRO 48 SECTOR ANTONIO JOSE DE SUCRE  EL MACARO",
@@ -74453,11 +74426,11 @@
     "migrate": true,
     "sector_name": "Saman Tarazonero II",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04125643082",
     "address": "CALLE MANZANA D 11 CASA NRO 14 SAMAN TARAZONERO II EL MACARO",
@@ -78175,11 +78148,11 @@
     "migrate": true,
     "sector_name": "La Magdalena",
     "plan": {
-      "id": 8,
-      "name": "RECURRENTE RESIDENCIAL PLAN 750M",
-      "cost": "49.50",
-      "code": "FOR750M",
-      "profile": "750M/750M"
+      "id": 21,
+      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
+      "cost": "34.50",
+      "code": "FOR450M",
+      "profile": "450M/450M"
     },
     "client_mobile": "04128883635",
     "address": "CALLE 17 NRO 9 URB LA MAGDALENA",
@@ -91988,11 +91961,11 @@
     "migrate": true,
     "sector_name": "La Esperanza",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04128151824",
     "address": "URB LA ESPERANZA CALLE 21 CASA 21 EL MACARO",
@@ -97560,11 +97533,11 @@
     "migrate": true,
     "sector_name": "Pantin",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04129130399",
     "address": "URB PANTY CALLE 4-A CASA NÚMERO 4",
@@ -97803,11 +97776,11 @@
     "migrate": false,
     "sector_name": "Casco de Turmero",
     "plan": {
-      "id": 21,
-      "name": "RECURRENTE RESIDENCIAL PLAN 450M",
-      "cost": "34.50",
-      "code": "FOR450M",
-      "profile": "450M/450M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243109718",
     "address": "CALLE CARREÑO CASA 51 CASCO CENTRAL",
@@ -100044,11 +100017,11 @@
     "migrate": false,
     "sector_name": "Rio Seco",
     "plan": {
-      "id": 3,
-      "name": "RECURRENTE RESIDENCIAL PLAN 600M",
-      "cost": "40.25",
-      "code": "FOR600M",
-      "profile": "600M/600M"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04243377878",
     "address": "PAYA RIO SECO CALLE 9 CASA Nª 8",
@@ -120526,23 +120499,32 @@
     "id": 7744,
     "client_name": "MIRIAM JOSEFINA RODRIGUEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Prados I",
     "plan": {
-      "id": 101,
-      "name": "RECURRENTE RESIDENCIAL PLAN 200M",
-      "cost": "19.00",
-      "code": "FOR200MB",
-      "profile": "200Mbps/200Mbps"
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
     },
     "client_mobile": "04144744379",
     "address": "PRADO 1 AV PRINCIPAL CASA 04",
     "client_identification": "V7221986",
     "nap_box_name": "CTO-00206",
     "created_at": "2025-03-19T17:17:25.811655",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12941,
+      "ip": "10.12.160.2",
+      "mac": "TP:LG:B7:65:62:80",
+      "serial": "TPLGB7656280",
+      "queue": null,
+      "interface": "VLAN239_PRADOS1",
+      "created_at": "2026-09-01T09:22:14.560376",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -150819,7 +150801,7 @@
     "id": 9018,
     "client_name": "Freddy Carrillo",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Por instalar",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Saman Tarazonero II",
@@ -150842,7 +150824,7 @@
     "id": 9034,
     "client_name": "Freddy Carrillo",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Por instalar",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Saman Tarazonero II",
@@ -154850,7 +154832,7 @@
     "id": 9169,
     "client_name": "ESCUELA COMUNITARIA CARIBE",
     "client_type_name": "GRATIS",
-    "status_name": "Cancelado",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Simon Bolivar",
@@ -154866,7 +154848,16 @@
     "client_identification": "V070815059",
     "nap_box_name": "CTO-00041",
     "created_at": "2026-08-06T13:10:57.808219",
-    "service_detail": null,
+    "service_detail": {
+      "id": 12936,
+      "ip": "10.16.233.2",
+      "mac": "OE:MT:3C:62:05:CA",
+      "serial": "OEMT3C6205CA",
+      "queue": null,
+      "interface": "VLAN128_SIMON_BOLIVAR_ZTE",
+      "created_at": "2026-08-31T12:15:08.531231",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -155303,7 +155294,7 @@
     "id": 9186,
     "client_name": "Michell Yhainilin Velasquez Mariño",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Suspendido",
+    "status_name": "Cancelado",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Pantin",
@@ -155319,16 +155310,7 @@
     "client_identification": "28187407",
     "nap_box_name": null,
     "created_at": "2026-08-15T14:09:04.376312",
-    "service_detail": {
-      "id": 12851,
-      "ip": "10.16.239.2",
-      "mac": "68:9f:f0:2a:76:6f",
-      "serial": "zxiccd350306",
-      "queue": null,
-      "interface": "VLAN229_PANTIN",
-      "created_at": "2026-08-15T18:31:01.375519",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -156044,7 +156026,7 @@
     "id": 9218,
     "client_name": "MARIA ELENA GUTIERREZ GRIBORIO",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": false,
     "sector_name": "Salto Angel",
@@ -156132,6 +156114,70 @@
       "queue": null,
       "interface": "VLAN231_PAYABAJO",
       "created_at": "2026-08-30T09:55:23.018472",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9221,
+    "client_name": "ISAURA MIGUELINA FOFE COLINA",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Activo",
+    "cycle": 1,
+    "migrate": true,
+    "sector_name": "Polvorin",
+    "plan": {
+      "id": 100,
+      "name": "RECURRENTE RESIDENCIAL PLAN 300M",
+      "cost": "27.60",
+      "code": "FOR300M",
+      "profile": "300Mbps/300Mbps"
+    },
+    "client_mobile": "4122078153",
+    "address": "POLVORIN CALLEJON LOS MAGOS CASA #1",
+    "client_identification": "V16996651",
+    "nap_box_name": "CTO-00353",
+    "created_at": "2026-08-31T16:39:13.906647",
+    "service_detail": {
+      "id": 12938,
+      "ip": "172.17.1.218",
+      "mac": "JM:KG:CC:DC:05:77",
+      "serial": "JMKGCCDC0577",
+      "queue": null,
+      "interface": "VLAN280_POLVORIN",
+      "created_at": "2026-08-31T17:00:35.127204",
+      "created_by_name": null
+    },
+    "installation_invoice_cost": null
+  },
+  {
+    "id": 9222,
+    "client_name": "BRYANT  REYES REYES AVILA",
+    "client_type_name": "RESIDENCIAL",
+    "status_name": "Por instalar",
+    "cycle": 1,
+    "migrate": false,
+    "sector_name": "La Guzman",
+    "plan": {
+      "id": 43,
+      "name": "RECURRENTE RESIDENCIAL PLAN 650M",
+      "cost": "46.00",
+      "code": "FOR650M",
+      "profile": "650M/650M"
+    },
+    "client_mobile": "04124006962",
+    "address": "HGEBEJE",
+    "client_identification": "V29808275",
+    "nap_box_name": "Prueba",
+    "created_at": "2026-08-31T17:46:27.110271",
+    "service_detail": {
+      "id": 12939,
+      "ip": "172.10.1.2",
+      "mac": "LKSAKP0993",
+      "serial": "LKSAKP0993",
+      "queue": null,
+      "interface": "VLAN100_OLTs",
+      "created_at": "2026-08-31T17:46:27.113672",
       "created_by_name": null
     },
     "installation_invoice_cost": null
