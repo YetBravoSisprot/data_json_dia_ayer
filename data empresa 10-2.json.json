@@ -32693,7 +32693,7 @@
   },
   {
     "id": 4301,
-    "client_name": "BRYANT  REYES REYES AVILA",
+    "client_name": "Sisprot Global Fiber C.A",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Activo",
     "cycle": 1,
@@ -35448,7 +35448,7 @@
     "id": 4409,
     "client_name": "INVERSIONES Y TRANSPORTE CARREN 2023 CA",
     "client_type_name": "PYME",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 10,
     "migrate": true,
     "sector_name": "Mata Caballo",
@@ -136768,7 +136768,7 @@
     "id": 8393,
     "client_name": "MARTHA BELMIRA PINTO CARPIO",
     "client_type_name": "EMPLEADO",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": false,
     "sector_name": "Rio Seco",
@@ -136784,16 +136784,7 @@
     "client_identification": "V24169270",
     "nap_box_name": "474",
     "created_at": "2025-06-16T08:59:08.088461",
-    "service_detail": {
-      "id": 8943,
-      "ip": "172.26.157.2",
-      "mac": "HWTC46A4699B",
-      "serial": "HWTC46A4699B",
-      "queue": "queue1",
-      "interface": "VLAN251_RIO_SECO",
-      "created_at": "2025-06-16T09:03:38.956532",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -142528,7 +142519,7 @@
     "id": 8695,
     "client_name": "LIDIA DEL ALBA MENDOZA LINARES",
     "client_type_name": "EMPLEADO",
-    "status_name": "Activo",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": false,
     "sector_name": "La Casona I",
@@ -142544,16 +142535,7 @@
     "client_identification": "V26055433",
     "nap_box_name": "CTO-00139",
     "created_at": "2025-08-06T14:06:24.149297",
-    "service_detail": {
-      "id": 9321,
-      "ip": "10.15.178.2",
-      "mac": "QXTLCB345289",
-      "serial": "QXTLCB345289",
-      "queue": "queue1",
-      "interface": "VLAN109_CASONA_1",
-      "created_at": "2025-08-06T14:08:20.697910",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -151283,7 +151265,7 @@
     "id": 9052,
     "client_name": "ELITE IMPORTS TURMERO",
     "client_type_name": "PYME",
-    "status_name": "Suspendido",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -151299,16 +151281,7 @@
     "client_identification": "J500339232",
     "nap_box_name": "CAJA NAP EDIFICIO ABUUT",
     "created_at": "2026-04-09T15:21:20.066912",
-    "service_detail": {
-      "id": 12590,
-      "ip": "10.17.21.2",
-      "mac": "ZX:IC:CD:D0:6A:18",
-      "serial": "ZXICCDD06A18",
-      "queue": null,
-      "interface": "VLAN200_OLTs",
-      "created_at": "2026-06-06T13:52:29.978449",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -152852,7 +152825,7 @@
     "id": 9105,
     "client_name": "FERREAGRICOLAS LA COLONIA CA",
     "client_type_name": "PYME",
-    "status_name": "Suspendido",
+    "status_name": "Cancelado",
     "cycle": 25,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -152868,16 +152841,7 @@
     "client_identification": "J298962976",
     "nap_box_name": "CTO-00440",
     "created_at": "2026-06-05T15:24:09.931719",
-    "service_detail": {
-      "id": 12581,
-      "ip": "10.17.26.2",
-      "mac": "68:9f:f0:0a:f3:3f",
-      "serial": "ZXICCD0BAEEF",
-      "queue": null,
-      "interface": "VLAN200_OLTs",
-      "created_at": "2026-06-05T15:26:05.975238",
-      "created_by_name": null
-    },
+    "service_detail": null,
     "installation_invoice_cost": null
   },
   {
@@ -155417,13 +155381,13 @@
     "nap_box_name": "CTO-00047",
     "created_at": "2026-08-18T21:02:47.409139",
     "service_detail": {
-      "id": 12888,
+      "id": 13074,
       "ip": "172.17.1.14",
-      "mac": "JM:KG:CA:B0:42:0F",
-      "serial": "JMKGCAB0420F",
+      "mac": "JM:KG:27:D5:3C:0B",
+      "serial": "JMKG27D53C0B",
       "queue": null,
       "interface": "VLAN128_SIMON_BOLIVAR_ZTE",
-      "created_at": "2026-08-19T20:10:26.244781",
+      "created_at": "2026-09-24T16:58:48.277965",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155806,13 +155770,13 @@
     "nap_box_name": "CTO-00720",
     "created_at": "2026-08-26T14:57:19.712772",
     "service_detail": {
-      "id": 13011,
+      "id": 13070,
       "ip": "172.17.1.46",
-      "mac": "JM:KG:CA:FF:78:F4",
-      "serial": "JMKGCAFF78F4",
+      "mac": "JM:KG:DE:4B:71:05",
+      "serial": "JMKGDE4B7105",
       "queue": null,
       "interface": "VLAN208_NISPERO_OLT1",
-      "created_at": "2026-09-12T14:28:44.039235",
+      "created_at": "2026-09-24T12:17:09.529926",
       "created_by_name": null
     },
     "installation_invoice_cost": null
@@ -155883,9 +155847,9 @@
   },
   {
     "id": 9216,
-    "client_name": "Freddy Carrillo",
+    "client_name": "Sisprot Global Fiber C.A",
     "client_type_name": "PYME",
-    "status_name": "Por instalar",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Edif. El Torreon",
@@ -155896,9 +155860,9 @@
       "code": "FOP300M",
       "profile": "300M/300M"
     },
-    "client_mobile": "04129950904",
+    "client_mobile": "04124006962",
     "address": "PRUEBA",
-    "client_identification": "V28458411",
+    "client_identification": "V29808275",
     "nap_box_name": "CTO-00180",
     "created_at": "2026-08-27T16:00:51.163742",
     "service_detail": {
@@ -156075,7 +156039,7 @@
   },
   {
     "id": 9222,
-    "client_name": "BRYANT  REYES REYES AVILA",
+    "client_name": "Sisprot Global Fiber C.A",
     "client_type_name": "RESIDENCIAL",
     "status_name": "Por instalar",
     "cycle": 1,
@@ -157038,7 +157002,7 @@
     "id": 9270,
     "client_name": "JOSE GREGORIO MENDEZ DOMINGUEZ",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Por instalar",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Valle Paraiso",
@@ -157054,7 +157018,16 @@
     "client_identification": "V8815509",
     "nap_box_name": null,
     "created_at": "2026-09-19T17:55:37.475997",
-    "service_detail": null,
+    "service_detail": {
+      "id": 13073,
+      "ip": "172.17.1.186",
+      "mac": "JM:KG:0F:9B:4A:21",
+      "serial": "JMKG0F9B4A21",
+      "queue": null,
+      "interface": "VLAN227_V_PARAISO_OLT1",
+      "created_at": "2026-09-24T13:00:37.521000",
+      "created_by_name": null
+    },
     "installation_invoice_cost": null
   },
   {
@@ -157093,7 +157066,7 @@
     "id": 9272,
     "client_name": "NEYLIN MAYLIN GUZMAN MORONTA",
     "client_type_name": "RESIDENCIAL",
-    "status_name": "Activo",
+    "status_name": "Suspendido",
     "cycle": 1,
     "migrate": true,
     "sector_name": "Casco de Turmero",
@@ -157125,7 +157098,7 @@
     "id": 9273,
     "client_name": "LABORATORIO FONTI PHARMACEUTICAL CA",
     "client_type_name": "PYME",
-    "status_name": "Suspendido",
+    "status_name": "Activo",
     "cycle": 1,
     "migrate": true,
     "sector_name": "La morita",
